@@ -433,7 +433,7 @@ function App() {
       const myPlayer: any = videojs(finalElement, options, () => {
         myPlayer.src({
           src: videoUrl,
-          type: "application/x-mpegURL",
+          type: "video/mp4",
         });
         console.log(myPlayer)
         myPlayer.offset({
