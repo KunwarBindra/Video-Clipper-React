@@ -1,6 +1,8 @@
 # Video-Clipper-React
 Developed a Video Clipper feature using video.js, react-spring, react-use-gesture.
 
+![Video clipper image](https://github.com/KunwarBindra/Video-Clipper-React/blob/main/Clipper-Photo.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
