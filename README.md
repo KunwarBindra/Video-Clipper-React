@@ -1,5 +1,5 @@
 # Video-Clipper-React
-Developed a Video Clipper feature using video.js, react-spring, react-use-gesture.
+Developed a Video Clipping feature using React.js, Video.js, Material UI, react-spring, and react-use-gesture.
 
 ![Video clipper image](https://github.com/KunwarBindra/Video-Clipper-React/blob/main/Clipper-Photo.png?raw=true)
 
